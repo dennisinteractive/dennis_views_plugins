@@ -1,0 +1,7 @@
+name = Dennis Views Plugins
+description = Provides additional views plugins
+core = 7.x
+package = Dennis Distro (Optional)
+dependencies[] = views
+files[] = views_handler_argument_term_node_tid_depth_join.inc
+files[] = views_handler_filter_term_node_tid_depth_join.inc
