@@ -1,3 +1,10 @@
+*** attention ***
+THIS MODULE HAS BEEN DEPRECATED. PLEASE USE https://github.com/dennisinteractive/dennis_views INSTEAD.
+
+
+
+
+
 Provides additional views plugins
 
 Available Plugins:
